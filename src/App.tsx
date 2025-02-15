@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from "./components/Resume.tsx";
+import Resume from "./components/Resume";
 import "./App.css";
 
 const App: React.FC = () => {
